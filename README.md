@@ -1,0 +1,2 @@
+# Yolov8-object-detection
+Real-time object detection using YOLOv8, Python and OpenCV
